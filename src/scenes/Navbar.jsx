@@ -58,10 +58,15 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage }) => {
           </div>
         ) : (
           <button
-            className="rounded-full bg-red p-2"
+            className="rounded-full bg-blue p-2"
             onClick={() => setIsMenuToggled(!isMenuToggled)}
           >
-            <img alt="menu-icon" src="../assets/menu-icon.svg" />
+            <img
+              alt="menu-icon"
+              src="https://cdn-icons-png.flaticon.com/512/2099/2099089.png"
+              height="50px"
+              width="50px"
+            />
           </button>
         )}
 
@@ -70,8 +75,16 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage }) => {
           <div className="fixed right-0 bottom-0 h-full bg-blue w-[300px]">
             {/* CLOSE ICON */}
             <div className="flex justify-end p-12">
-              <button onClick={() => setIsMenuToggled(!isMenuToggled)}>
-                <img alt="close-icon" src="../assets/close-icon.svg" />
+              <button
+                className="rounded-full bg-red p-2"
+                onClick={() => setIsMenuToggled(!isMenuToggled)}
+              >
+                <img
+                  alt="close-icon"
+                  src="https://cdn-icons-png.flaticon.com/512/4034/4034637.png"
+                  height="50px"
+                  width="50px"
+                />
               </button>
             </div>
 
