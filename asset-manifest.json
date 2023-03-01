@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lutfar-alif/static/css/main.5cb8a6d0.css",
-    "main.js": "/lutfar-alif/static/js/main.bc6e5578.js",
+    "main.js": "/lutfar-alif/static/js/main.0f11faf8.js",
     "static/media/contact-image.jpeg": "/lutfar-alif/static/media/contact-image.37fcb61b49d6aa5c40d3.jpeg",
     "static/media/project-5.jpeg": "/lutfar-alif/static/media/project-5.0b26b0692e9a610483a4.jpeg",
     "static/media/project-6.jpeg": "/lutfar-alif/static/media/project-6.ecd87ccc7667efc5f77e.jpeg",
@@ -19,10 +19,10 @@
     "static/media/brush.png": "/lutfar-alif/static/media/brush.85c9bab5ba2d7dcae1e3.png",
     "index.html": "/lutfar-alif/index.html",
     "main.5cb8a6d0.css.map": "/lutfar-alif/static/css/main.5cb8a6d0.css.map",
-    "main.bc6e5578.js.map": "/lutfar-alif/static/js/main.bc6e5578.js.map"
+    "main.0f11faf8.js.map": "/lutfar-alif/static/js/main.0f11faf8.js.map"
   },
   "entrypoints": [
     "static/css/main.5cb8a6d0.css",
-    "static/js/main.bc6e5578.js"
+    "static/js/main.0f11faf8.js"
   ]
 }
